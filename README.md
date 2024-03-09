@@ -1,66 +1,50 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a href="https://laravel.com" rel="nofollow"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel 徽标" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="构建状态" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/laravel/framework" rel="nofollow"><img src="https://camo.githubusercontent.com/91036af362edff2902126888da2971bc0cc20c96c508819e79d337d69b4f7c48/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f64742f6c61726176656c2f6672616d65776f726b" alt="总下载量" data-canonical-src="https://img.shields.io/packagist/dt/laravel/framework" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/laravel/framework" rel="nofollow"><img src="https://camo.githubusercontent.com/0fe6362152a14811c13798533360a37ec915ef3a28aac25c29c9acd5bc05d498/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f762f6c61726176656c2f6672616d65776f726b" alt="最新稳定版本" data-canonical-src="https://img.shields.io/packagist/v/laravel/framework" style="max-width: 100%;"></a>
+<a href="https://packagist.org/packages/laravel/framework" rel="nofollow"><img src="https://camo.githubusercontent.com/80fc3453b4cbea11552c37e702c957aac77113eb1b09702e2bf983370db7b4b6/68747470733a2f2f696d672e736869656c64732e696f2f7061636b61676973742f6c2f6c61726176656c2f6672616d65776f726b" alt="执照" data-canonical-src="https://img.shields.io/packagist/l/laravel/framework" style="max-width: 100%;"></a>
 </p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于 Laravel</font></font></h2><a id="user-content-about-laravel" class="anchor" aria-label="永久链接：关于 Laravel" href="#about-laravel"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 是一个具有表现力、优雅语法的 Web 应用程序框架。</font><font style="vertical-align: inherit;">我们相信，开发必须是一种令人愉快且富有创造性的体验，才能真正令人满足。</font><font style="vertical-align: inherit;">Laravel 通过简化许多 Web 项目中使用的常见任务来消除开发的痛苦，例如：</font></font></p>
+<ul dir="auto">
+<li><a href="https://laravel.com/docs/routing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简单、快速的路由引擎</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://laravel.com/docs/container" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强大的依赖注入容器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://laravel.com/docs/session" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于会话</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://laravel.com/docs/cache" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">缓存</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储的多个后端</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">富有表现力、直观的</font></font><a href="https://laravel.com/docs/eloquent" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库 ORM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与数据库无关的</font></font><a href="https://laravel.com/docs/migrations" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模式迁移</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://laravel.com/docs/queues" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强大的后台作业处理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://laravel.com/docs/broadcasting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时事件广播</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 易于访问、功能强大，并提供大型、健壮的应用程序所需的工具。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 Laravel</font></font></h2><a id="user-content-learning-laravel" class="anchor" aria-label="永久链接：学习 Laravel" href="#learning-laravel"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 拥有所有现代 Web 应用程序框架中最广泛、最全面的</font></font><a href="https://laravel.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和视频教程库，使该框架的入门变得轻而易举。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以尝试</font></font><a href="https://bootcamp.laravel.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel Bootcamp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，在那里您将被指导从头开始构建现代 Laravel 应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想阅读，</font></font><a href="https://laracasts.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laracasts</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以提供帮助。</font><font style="vertical-align: inherit;">Laracasts 包含数千个视频教程，涉及一系列主题，包括 Laravel、现代 PHP、单元测试和 JavaScript。</font><font style="vertical-align: inherit;">通过挖掘我们综合的视频库来提高您的技能。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 赞助商</font></font></h2><a id="user-content-laravel-sponsors" class="anchor" aria-label="永久链接：Laravel 赞助商" href="#laravel-sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们衷心感谢以下赞助商资助 Laravel 开发。</font><font style="vertical-align: inherit;">如果您有兴趣成为赞助商，请访问</font></font><a href="https://partners.laravel.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 合作伙伴计划</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级合作伙伴</font></font></h3><a id="user-content-premium-partners" class="anchor" aria-label="永久链接：高级合作伙伴" href="#premium-partners"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><a href="https://vehikl.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">韦希克尔</font></font></a></strong></li>
+<li><strong><a href="https://tighten.co" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拧紧有限公司</font></font></a></strong></li>
+<li><strong><a href="https://webreinvent.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络重塑</font></font></a></strong></li>
+<li><strong><a href="https://kirschbaumdevelopment.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基尔什鲍姆发展集团</font></font></a></strong></li>
+<li><strong><a href="https://64robots.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">64个机器人</font></font></a></strong></li>
+<li><strong><a href="https://www.curotec.com/services/technologies/laravel/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">库罗泰克</font></font></a></strong></li>
+<li><strong><a href="https://cyber-duck.co.uk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络鸭子</font></font></a></strong></li>
+<li><strong><a href="https://devsquad.com/hire-laravel-developers" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发小队</font></font></a></strong></li>
+<li><strong><a href="https://jump24.co.uk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跳跃24</font></font></a></strong></li>
+<li><strong><a href="https://redberry.international/laravel/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">红莓</font></font></a></strong></li>
+<li><strong><a href="https://activelogic.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主动逻辑</font></font></a></strong></li>
+<li><strong><a href="https://byte5.de" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字节5</font></font></a></strong></li>
+<li><strong><a href="https://op.gg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OP.GG</font></font></a></strong></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢您考虑为 Laravel 框架做出贡献！</font></font><a href="https://laravel.com/docs/contributions" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南可以在Laravel 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为守则</font></font></h2><a id="user-content-code-of-conduct" class="anchor" aria-label="永久链接：行为准则" href="#code-of-conduct"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了确保 Laravel 社区欢迎所有人，请查看并遵守</font></font><a href="https://laravel.com/docs/contributions#code-of-conduct" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全漏洞</font></font></h2><a id="user-content-security-vulnerabilities" class="anchor" aria-label="永久链接：安全漏洞" href="#security-vulnerabilities"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="mailto:taylor@laravel.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您发现 Laravel 中存在安全漏洞，请通过taylor@laravel.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向 Taylor Otwell 发送电子邮件</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">所有安全漏洞都将得到及时解决。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://opensource.org/licenses/MIT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel 框架是根据MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">授权的开源软件</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
